@@ -1,2 +1,2 @@
 # Dev-Study
-Projetos para estudo e desenvolvimento de software 
+Projects for studies and development of programming logic
